@@ -1,0 +1,24 @@
+{
+  "name": "generate-qr-codes",
+  "version": "1.0.0",
+  "description": "Generate Qr Codes .png",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandreafj/generate-qr-codes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandreafj/generate-qr-codes/issues"
+  },
+  "homepage": "https://github.com/alexandreafj/generate-qr-codes#readme",
+  "dependencies": {
+    "jszip": "^3.5.0",
+    "qrcode": "^1.4.4"
+  }
+}
